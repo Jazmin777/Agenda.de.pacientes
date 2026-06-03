@@ -51,6 +51,6 @@ Para ejecutar este proyecto de forma local en tu computadora necesitas:
 
 ## Datos Generales del Estudiante
 Nombre: Jazmin Rodriguez Zamarron
-* **Carrera:** Ingeniería en Desarrollo de Software
-* **Materia:** [Nombre de la materia]
-* **Fecha de entrega:** Junio 2026
+Carrera: Ingeniería en Desarrollo de Software
+Materia: Programación Orientada a Objetos
+Fecha de entrega: Junio 2026
